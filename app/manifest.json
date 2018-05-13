@@ -5,7 +5,7 @@
   "description": "__MSG_appDescription__",
   "content_scripts": [
     {
-      "matches": ["https://github.com/*"],
+      "matches": ["https://github.com/yusuke-can/k-link/compare/*"],
       "js": [
         "bower_components/jquery/dist/jquery.min.js",
         "scripts/contentscript.js"
