@@ -1,6 +1,6 @@
 'use strict';
 
 $(function () {
- console.log('k-link')
+ console.log('Run k-link!')
 // $('body').css('background-color', '#ff0000');
 });
